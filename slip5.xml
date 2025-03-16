@@ -1,0 +1,27 @@
+<items>
+<item type="Electronics">
+<name>Television</name>
+<rate>500</rate>
+<quantity>10</quantity>
+</item>
+<item type="Clothing">
+<name>Shirt</name>
+<rate>50</rate>
+<quantity>20</quantity>
+</item>
+<item type="Grocery">
+<name>Rice</name>
+<rate>40</rate>
+<quantity>30</quantity>
+</item>
+<item type="Books">
+<name>HarryPotterandthePhilosopher’sStone</name>
+<rate>20</rate>
+<quantity>50</quantity>
+</item>
+<item type="Sports">
+<name>Football</name>
+<rate>100</rate>
+<quantity>5</quantity>
+</item>
+</items>
