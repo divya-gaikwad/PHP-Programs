@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library ><book type="self" name="divu">
+		<name>divya ki story</name>
+		<code>mai aur mai</code>
+		<author>drg</author>
+		<price>50000</price>
+	</book>
+	<book>
+		<name>divya</name>
+		<code>mai aur mai</code>
+		<author>drg</author>
+		<price>50000</price>
+	</book>
+	<book>
+		<name>divya ki story</name>
+		<code>mai aur mai</code>
+		<author>drg</author>
+		<price>50000</price>
+	</book>
+
+</library>
+
