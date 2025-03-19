@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<info>
+	<student>
+	<name>aa</name>
+	<college>rr</college>
+	<course>bb</course >
+	</student>
+<student>
+	<name>aaa</name>
+	<college>iop</college>
+	<course>cc</course >
+	</student>
+<student>
+	<name>aa2334</name>
+	<college>yui</college>
+	<course>dd</course >
+	</student>
+</info>
