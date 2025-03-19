@@ -1,0 +1,19 @@
+<html><body><form>
+	Enter name:<input type="text" id="name" onblur="f1()">
+		   <input type="button" value="kara" onclick="f2()">
+
+</form><body></html>
+
+<script>
+function f1()
+{
+	var s=document.getElementById("name").value;
+	if(s!=null)
+		document.write("<font color=red size=18>"+s);
+}
+function f2()
+{
+document.write("<img src='pi.jpg'>");
+}
+
+</script>
