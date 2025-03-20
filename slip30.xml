@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+	<book category="yoga" >
+		<name>divya ki kahani</name>
+		<author>Dr.Gaikwad</author>
+		<price>5000099090</price>
+	</book>
+	<book category="story">
+		<name>divya ka bachpan</name>
+		<author>DG</author>
+		<price>900</price>
+	</book>
+	<book category="technical">
+		<name>divya drusthi</name>
+		<author>mich lihl</author>
+		<price>58000</price>
+	</book>
+
+</bookstore>
+
