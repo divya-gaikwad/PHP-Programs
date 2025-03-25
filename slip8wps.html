@@ -1,0 +1,25 @@
+
+<html><body><form>
+
+<input type="button" id="q1" value="ok" onclick="show()">
+
+</form></body></html>
+<script language="javascript">
+
+function show()
+{
+alert("Exams are near, have you started preparing for?");
+let n=prompt("enter fist number=");
+let m=prompt("enter second number=");
+
+con=confirm("are you sure , you want to add numbers? ");
+if(con==true){
+	
+	num1=parseInt(n);
+	num2=parseInt(m);
+	let s=num1+num2;
+	alert("the sum of numbers is "+s);
+	}
+
+}
+</script>
